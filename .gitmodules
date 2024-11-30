@@ -1,0 +1,6 @@
+[submodule "facebook.com"]
+	path = facebook.com
+	url = http://facebook.com
+[submodule "facebook-sdk"]
+	path = facebook-sdk
+	url = git@github.com:dormanshylasz/facebook-sdk.git
